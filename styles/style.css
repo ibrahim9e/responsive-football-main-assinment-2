@@ -4,7 +4,6 @@
 
 /*--------------------- font end ----------------*/
 
-/*----------- common style start(font) -----------*/
 body {
   font-family: "Poppins", sans-serif;
   margin: 0;
@@ -166,7 +165,7 @@ main {
 }
 /* footer style end */
 
-/* Media-Queries */
+/* Media-Queries start */
 
 /* Mobile Devices  */
 
